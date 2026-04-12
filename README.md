@@ -2,8 +2,6 @@
 
 A premium, frontend-only mobile application built with **Flutter** that allows users to track daily expenses, monitor category-based budgets, and calculate savings.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Simple+Expense+Tracker+Dashboard) 
-
 ## ✨ Features
 
 - **🧠 Smart Expense Tracking**: Quick entry for amount, title, and category.
