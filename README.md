@@ -34,7 +34,7 @@ A premium, frontend-only mobile application built with **Flutter** that allows u
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dabburipoojitha87-hash/Expense-Tracker-App
    cd expense_app
    ```
 
