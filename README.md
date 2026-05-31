@@ -68,7 +68,7 @@ The project follows a **Provider-Based Architecture** with Riverpod:
 - [x] Monthly cycle reset logic
 
 ---
-Built with ❤️ by Antigravity
+Built with ❤️ by Flutter
 
 Download latest APK:
 https://github.com/dabburipoojitha87-hash/Expense-Tracker-App/releases
