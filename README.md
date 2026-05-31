@@ -69,3 +69,6 @@ The project follows a **Provider-Based Architecture** with Riverpod:
 
 ---
 Built with ❤️ by Antigravity
+
+Download latest APK:
+https://github.com/dabburipoojitha87-hash/Expense-Tracker-App/releases
